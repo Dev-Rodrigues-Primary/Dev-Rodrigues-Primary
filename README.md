@@ -1,15 +1,19 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="illustration of a computer" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-Back-end Developer with solid experience in PHP, JavaScript, and SQL.  
-Skilled in designing, developing, testing, and deploying secure and high-quality software solutions.  
-Passionate about writing clean, efficient code and continuously improving system performance and scalability.  
+Back-end Developer with experience in PHP, JavaScript, and SQL.  
+Familiar with designing, developing, testing, and deploying software solutions.  
+Mainly focused on back-end development, with a solid understanding of front-end concepts.  
+Native Portuguese speaker (PT-BR) with strong proficiency in English.  
+Eager to learn, write clean code, and continuously improve skills while contributing to projects.
+
 </p>
 
 
 <p align="left">
-If you’re looking for someone passionate about building secure, scalable, and high-quality software — let’s talk!  
-Feel free to reach out and let’s create something amazing together.  
+If you’re looking for someone eager to contribute to a team and help build secure, high-quality software — let’s talk!  
+Feel free to reach out and collaborate on projects together.
+
 
 </p>
 
@@ -21,3 +25,12 @@ Feel free to reach out and let’s create something amazing together.
   <a href="https://wa.me/5511965482287" title="WhatsApp">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
 </p>
+
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/></code>
+
