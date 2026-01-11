@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="illustration of a computer" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-Back-end Developer with experience in PHP, JavaScript, and SQL.  
+Full-Stack Developer with experience in PHP, JavaScript, React, CSS/HTMl and SQL.  
 Familiar with designing, developing, testing, and deploying software solutions.  
 Mainly focused on back-end development, with a solid understanding of front-end concepts.  
 Native Portuguese speaker (PT-BR) with strong proficiency in English.  
