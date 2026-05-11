@@ -3,20 +3,18 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="illustration of a computer" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-Full-Stack Developer with experience in PHP, JavaScript, React, CSS/HTMl and SQL.  
-Familiar with designing, developing, testing, and deploying software solutions.  
-Mainly focused on back-end development, with a solid understanding of front-end concepts.  
-Native Portuguese speaker (PT-BR) with strong proficiency in English.  
-Eager to learn, write clean code, and continuously improve skills while contributing to projects.
+Back-End Developer focused on infrastructure, networking, Linux, and scalable systems.  
+Experienced with Python, JavaScript, Node.js, PostgreSQL, SQL Server, PHP, and REST APIs.  
+Familiar with server administration, web services, troubleshooting, and software development workflows.  
+Currently studying Computer Engineering and holding a Technical Degree in Systems Development – SENAI.  
+Native Portuguese speaker (PT-BR) with advanced English proficiency.  
+Passionate about clean code, back-end architecture, infrastructure, and continuous learning.
 
 </p>
 
-
-
 <p align="left">
-If you’re looking for someone eager to contribute to a team and help build secure, high-quality software, let’s talk!  
-Feel free to reach out and collaborate on projects together.
-
+Open to collaborating on back-end, infrastructure, automation, and open-source projects.  
+Always looking to improve technical skills and contribute to efficient, reliable, and secure solutions.
 
 </p>
 
