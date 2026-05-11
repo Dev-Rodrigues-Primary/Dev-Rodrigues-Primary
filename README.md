@@ -14,7 +14,7 @@ Eager to learn, write clean code, and continuously improve skills while contribu
 
 
 <p align="left">
-If you’re looking for someone eager to contribute to a team and help build secure, high-quality software — let’s talk!  
+If you’re looking for someone eager to contribute to a team and help build secure, high-quality software, let’s talk!  
 Feel free to reach out and collaborate on projects together.
 
 
