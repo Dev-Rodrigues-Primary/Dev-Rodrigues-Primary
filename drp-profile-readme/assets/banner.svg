@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 240" width="1000" height="240" role="img" aria-label="Davi Rodrigues Pires — Back-End, Infrastructure, Networking, Linux">
+<defs>
+<pattern id="g" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#161616" stroke-width="1"/></pattern>
+<radialGradient id="glow" cx="100%" cy="50%" r="60%"><stop offset="0" stop-color="#E11D2E" stop-opacity=".28"/><stop offset="1" stop-color="#E11D2E" stop-opacity="0"/></radialGradient>
+<linearGradient id="fade" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#0A0A0A" stop-opacity="0"/><stop offset="1" stop-color="#0A0A0A" stop-opacity="0"/></linearGradient>
+</defs>
+<style>
+@keyframes f{from{opacity:0;transform:translateY(6px)}}
+@keyframes w{from{width:0}}
+.a{animation:f .7s ease backwards}
+.ln{animation:w 1s ease .3s backwards}
+</style>
+<rect width="1000" height="240" fill="#0A0A0A"/><rect width="1000" height="240" fill="url(#g)"/><rect width="1000" height="240" fill="url(#glow)"/>
+<rect width="1000" height="1" fill="#262626"/><rect y="239" width="1000" height="1" fill="#262626"/>
+<text class="a" x="64" y="82" style="animation-delay:.1s;font-family:'Fira Code','JetBrains Mono',SFMono-Regular,Consolas,Menlo,'Liberation Mono',monospace;font-size:14px;letter-spacing:3px" fill="#E11D2E">~/davi $ ./start</text>
+<text class="a" x="64" y="140" style="animation-delay:.25s;font-family:'Inter','Segoe UI',-apple-system,Helvetica,Arial,sans-serif;font-size:56px;font-weight:800;letter-spacing:-1px" fill="#FFFFFF">Davi Rodrigues Pires</text>
+<rect class="ln" x="64" y="162" width="96" height="3" fill="#E11D2E"/>
+<text class="a" x="64" y="200" style="animation-delay:.5s;font-family:'Fira Code','JetBrains Mono',SFMono-Regular,Consolas,Menlo,'Liberation Mono',monospace;font-size:17px;letter-spacing:2px"><tspan fill="#E5E5E5"> BACK-END </tspan><tspan fill="#E11D2E"> · </tspan><tspan fill="#E5E5E5"> INFRASTRUCTURE </tspan><tspan fill="#E11D2E"> · </tspan><tspan fill="#E5E5E5"> NETWORKING </tspan><tspan fill="#E11D2E"> · </tspan><tspan fill="#E5E5E5"> LINUX </tspan></text>
+</svg>

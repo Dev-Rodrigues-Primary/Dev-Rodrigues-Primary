@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 248" width="860" height="248" role="img" aria-label="Technology stack grouped by category">
+<style>text{font-family:'Fira Code','JetBrains Mono',SFMono-Regular,Consolas,Menlo,'Liberation Mono',monospace} .l{font-size:11px;letter-spacing:2px;fill:#8A8A8A} .x{font-size:13px;fill:#E5E5E5} @keyframes f{from{opacity:0}} .r{animation:f .4s ease backwards}</style>
+<rect x="0.5" y="0.5" width="859" height="247" rx="10" fill="#0A0A0A" stroke="#262626"/>
+<g class="r" style="animation-delay:0.00s">
+<rect x="24" y="34" width="6" height="6" fill="#E11D2E"/>
+<text class="l" x="40" y="44">LANGUAGES</text>
+<rect x="190.0" y="24" width="72.8" height="28" rx="6" fill="#121212" stroke="#2A2A2A"/>
+<text class="x" x="226.4" y="43" text-anchor="middle">Python</text>
+<rect x="272.8" y="24" width="104.0" height="28" rx="6" fill="#121212" stroke="#2A2A2A"/>
+<text class="x" x="324.8" y="43" text-anchor="middle">JavaScript</text>
+<rect x="386.8" y="24" width="33.8" height="28" rx="6" fill="#121212" stroke="#2A2A2A"/>
+<text class="x" x="403.7" y="43" text-anchor="middle">C</text>
+<rect x="430.6" y="24" width="41.6" height="28" rx="6" fill="#121212" stroke="#2A2A2A"/>
+<text class="x" x="451.4" y="43" text-anchor="middle">C#</text>
+<rect x="482.2" y="24" width="49.4" height="28" rx="6" fill="#121212" stroke="#2A2A2A"/>
+<text class="x" x="506.9" y="43" text-anchor="middle">PHP</text>
+<rect x="541.6" y="24" width="88.4" height="28" rx="6" fill="#121212" stroke="#2A2A2A"/>
+<text class="x" x="585.8" y="43" text-anchor="middle">HTML/CSS</text>
+</g>
+<rect x="24" y="68" width="812" height="1" fill="#1A1A1A"/>
+<g class="r" style="animation-delay:0.15s">
+<rect x="24" y="90" width="6" height="6" fill="#E11D2E"/>
+<text class="l" x="40" y="100">BACK-END</text>
+<rect x="190.0" y="80" width="80.6" height="28" rx="6" fill="#121212" stroke="#2A2A2A"/>
+<text class="x" x="230.3" y="99" text-anchor="middle">Node.js</text>
+<rect x="280.6" y="80" width="57.2" height="28" rx="6" fill="#121212" stroke="#2A2A2A"/>
+<text class="x" x="309.2" y="99" text-anchor="middle">.NET</text>
+<rect x="347.8" y="80" width="96.2" height="28" rx="6" fill="#121212" stroke="#2A2A2A"/>
+<text class="x" x="395.9" y="99" text-anchor="middle">REST APIs</text>
+</g>
+<rect x="24" y="124" width="812" height="1" fill="#1A1A1A"/>
+<g class="r" style="animation-delay:0.30s">
+<rect x="24" y="146" width="6" height="6" fill="#E11D2E"/>
+<text class="l" x="40" y="156">DATABASES</text>
+<rect x="190.0" y="136" width="104.0" height="28" rx="6" fill="#121212" stroke="#2A2A2A"/>
+<text class="x" x="242.0" y="155" text-anchor="middle">PostgreSQL</text>
+<rect x="304.0" y="136" width="65.0" height="28" rx="6" fill="#121212" stroke="#2A2A2A"/>
+<text class="x" x="336.5" y="155" text-anchor="middle">MySQL</text>
+<rect x="379.0" y="136" width="104.0" height="28" rx="6" fill="#121212" stroke="#2A2A2A"/>
+<text class="x" x="431.0" y="155" text-anchor="middle">SQL Server</text>
+</g>
+<rect x="24" y="180" width="812" height="1" fill="#1A1A1A"/>
+<g class="r" style="animation-delay:0.45s">
+<rect x="24" y="202" width="6" height="6" fill="#E11D2E"/>
+<text class="l" x="40" y="212">INFRA &amp; TOOLS</text>
+<rect x="190.0" y="192" width="65.0" height="28" rx="6" fill="#121212" stroke="#2A2A2A"/>
+<text class="x" x="222.5" y="211" text-anchor="middle">Linux</text>
+<rect x="265.0" y="192" width="104.0" height="28" rx="6" fill="#121212" stroke="#2A2A2A"/>
+<text class="x" x="317.0" y="211" text-anchor="middle">Networking</text>
+<rect x="379.0" y="192" width="119.6" height="28" rx="6" fill="#121212" stroke="#2A2A2A"/>
+<text class="x" x="438.8" y="211" text-anchor="middle">Server Admin</text>
+<rect x="508.6" y="192" width="143.0" height="28" rx="6" fill="#121212" stroke="#2A2A2A"/>
+<text class="x" x="580.1" y="211" text-anchor="middle">Troubleshooting</text>
+<rect x="661.6" y="192" width="49.4" height="28" rx="6" fill="#121212" stroke="#2A2A2A"/>
+<text class="x" x="686.3" y="211" text-anchor="middle">Git</text>
+</g>
+</svg>
